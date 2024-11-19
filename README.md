@@ -31,4 +31,5 @@ The link and instructions to install Poetry is below
 https://python-poetry.org/docs/#installing-with-the-official-installer
 
 Run the Code
+
 poetry run app
