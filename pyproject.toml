@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "alphabet-soup"
+version = "0.1.0"
+description = ""
+authors = ["richardannor <richard.annor@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+[tool.poetry.scripts]
+app = "alphabet_soup.main:app"
+
+[build-system]
+requires = ["poetry-core"]
+buildfddd-backend = "poetry.core.masonry.api"
